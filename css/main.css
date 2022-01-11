@@ -182,7 +182,9 @@ a,p,h1,h2,h3,h4,h5, button, .amiibo-name{
     background-color: white;
 }
 
-#footer {
+
+
+#traje {
     background: url(../img/bg-05.jpg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -195,6 +197,10 @@ a,p,h1,h2,h3,h4,h5, button, .amiibo-name{
 
 .copyright {
     font-family: Arial, Helvetica, sans-serif;
+}
+
+nav .copyright span {
+    font-size: 1.2rem;
 }
 
 /** Spider-Verse **/
