@@ -216,7 +216,7 @@ nav .copyright span {
 
 #sobre-nosotros {
     background-image: url(../img/bg-08.jpg);
-    height: 100%;
+    height: 100vh;
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
