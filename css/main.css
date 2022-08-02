@@ -96,7 +96,7 @@ a,p,h1,h2,h3,h4,h5, button, .amiibo-name{
     transition: all ease-out 0.2s;
 }
 
-.card-border:hover{
+.card-t:hover{
     transform: scale(1.05);
 }
 
@@ -209,7 +209,20 @@ nav .copyright span {
     background-image: url(../img/bg-06.jpg);
     height: 100%;
     background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
+
+#sobre-nosotros {
+    background-image: url(../img/bg-08.jpg);
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
 
 .mas-spiderverse p {
     font-family: Arial, Helvetica, sans-serif;
@@ -291,6 +304,9 @@ nav .copyright span {
     background-image: url(../img/bg-07.jpg);
     height: 100%;
     background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .img-fluid {
